@@ -67,6 +67,12 @@ h1 {
   color: #333;
 }
 
+.task-text.completed {
+  text-decoration: line-through;
+  color: #888;
+  opacity: 0.6;
+}
+
 .delete-button {
   background: none;
   border: none;
